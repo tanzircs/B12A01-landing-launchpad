@@ -182,6 +182,29 @@ main {
 }
 /* contact section end */
 
+/* optional start */
+.optional {
+  text-align: center;
+  background-color: white;
+  margin-top: 140px;
+}
+.optional-title {
+  font-size: 50px;
+  font-weight: bold;
+  padding-top: 70px;
+}
+
+.btn-mrgn {
+  margin: 20px 0px;
+}
+
+.optional-img {
+  margin-bottom: 70px;
+  border-radius: 10%;
+}
+
+/* optional end */
+
 /* main section end  */
 
 /* footer start */
