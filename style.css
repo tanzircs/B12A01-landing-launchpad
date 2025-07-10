@@ -46,6 +46,52 @@ nav {
 }
 /* Header section end */
 
+/* main section start  */
+main {
+  max-width: 1140px;
+  margin: 0 auto;
+}
+
+/* contact section start */
+.contact {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 71px 0px;
+}
+.contact-title {
+  font-size: 97px;
+  font-weight: 500;
+}
+
+.data-box {
+  height: 30px;
+  width: 500px;
+  border-radius: 10px;
+}
+.msg-box {
+  height: 60px;
+  width: 500px;
+  border-radius: 10px;
+}
+
+.input-margine {
+  margin: 10px 0px;
+}
+
+.contact-btn {
+  background-color: rgba(78, 71, 255, 1);
+  border: none;
+  border-radius: 10px;
+  color: white;
+  padding: 19px 205px;
+  font-size: 16px;
+  font-weight: bold;
+}
+/* contact section end */
+
+/* main section end  */
+
 /* footer start */
 footer {
   text-align: center;
