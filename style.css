@@ -45,3 +45,37 @@ nav {
   padding-bottom: 38px;
 }
 /* Header section end */
+
+/* footer start */
+footer {
+  text-align: center;
+}
+.footer-logo {
+  font-size: 100px;
+  font-weight: 700;
+  color: rgba(78, 71, 255, 1);
+  margin-top: 104px;
+}
+
+.footer-text {
+  font-size: 14px;
+  font-weight: 100;
+}
+ul li {
+  list-style: none;
+  margin-top: 30px;
+  margin-bottom: 104px;
+}
+
+ul li a {
+  text-decoration: none;
+  color: black;
+  font-size: 18px;
+}
+.menu {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  padding: 0px;
+}
+/* footer end */
