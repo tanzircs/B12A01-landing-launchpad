@@ -180,12 +180,6 @@ main {
   border-radius: 10px;
   border: none;
 }
-.msg-box {
-  height: 100px;
-  width: 500px;
-  border-radius: 10px;
-  border: none;
-}
 
 .input-margine {
   margin: 10px 0px;
@@ -213,6 +207,17 @@ input::placeholder {
   padding-left: 10px;
   padding-right: 10px;
   align-items: start;
+}
+
+textarea::placeholder {
+  padding: 10px;
+}
+
+.textarea {
+  display: block;
+  border-radius: 10px;
+  border: none;
+  margin-top: 10px;
 }
 /* contact section end */
 
