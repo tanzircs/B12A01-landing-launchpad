@@ -206,18 +206,18 @@ main {
 input::placeholder {
   padding-left: 10px;
   padding-right: 10px;
-  align-items: start;
+  /* align-items: start; */
 }
 
 textarea::placeholder {
   padding: 10px;
 }
 
-.textarea {
+.text-area {
   display: block;
-  border-radius: 10px;
-  border: none;
   margin-top: 10px;
+  border: none;
+  border-radius: 10px;
 }
 /* contact section end */
 
