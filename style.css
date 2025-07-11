@@ -94,6 +94,10 @@ main {
   color: rgba(37, 36, 50, 0.5);
 }
 
+.date {
+  color: rgba(37, 36, 50, 0.5);
+}
+
 .action-img {
   border-radius: 10%;
 }
